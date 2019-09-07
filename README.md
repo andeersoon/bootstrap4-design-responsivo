@@ -3,6 +3,8 @@ Curso de Bootstrap 4 &amp; Design responsivo
 
 ![Bootstrap 4](https://miro.medium.com/max/824/1*9RqBEDU9Mbg6XM8O6d7Q9A.png)
 
+---
+
 ### Tópicos:
 - [] [Configurando o Bootstrap]()
 - [] [Formatações de textos]()
